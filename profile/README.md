@@ -78,23 +78,34 @@ Vivek is an enthusiastic and undeterred member of Verge. He loves to work at new
 
 “Verge is like a sand box to me. It allows me to play around things, challenge myself and if I fall, I fall on sand”, quotes Dev as one of the founding members of Verge. He has great plans for Verge including making it a platform where all students can participate and learn new things. He started his journey with the Management team of Verge in 2019 and now works judiciously on backend for android applications while leading a team for Website development. Being a member from the early days, Dev has worked in the techfest, BidCars application, Sai Sanjeevani, Department search development for Haryana Government and miscellaneous other websites. He is termed as a dedicated, helpful and sincere member.
 
-7. **Aditya:**
-
-A developer and designer with experience in building cross-platform applications, Aditya is now the Frontend Team lead at Verge. Excited with the real world application of knowledge in the club, he became part of the ever-growing team. In an engaging community of student developers, he states that it's been an amazing journey. He has been part of the full development cycle, where he works out the design, codes the product and collects continuous feedback to keep improving. Being a tech head, Aditya enjoys finding bugs, solving errors and design. He also worked on the BidCars project where with the help of his team, he was able to deliver a terrific application. He has come a long way from being the Gaming expert at the techfest in 2019 and is known to be a punctual and talented member with immense knowledge in his field.
-
-8. **Jai:**
+7. **Jai:**
 
 Another founding member with a keen interest towards management, Jai was the vice president of Verge and also the founder and president of SPARKS initiator - the coding club. He has given his complete contribution from the absolute start in terms of planning, managing, execution etc. Owing to the sincere nature of the idea of Verge, Jai decided to be part of the journey by conducting events, fests, seminars, webinars, workshops etc. During the tough times of Covid-19, he and his team mates took the initiative and worked hard and left no one behind. He emphasises on management, supervision, teamwork and working under pressure. He is a very responsible and knowledgeable person and has contributed greatly.
 
-9. **Ketan:**
+8. **Ketan:**
 
 Joining the club in 2021, Ketan is a full stack developer. He joined Verge with a curiosity to learn and grow. He joined as an intern in the Bidcars project and ended up as the Front end lead in the Sai Sanjeevani application. He is a full stack developer for the admin panel. He also had a contribution in the Department Search Software for Haryana government. He enjoys learning and views every new day as a challenge. He never gives up and is very consistent in his work. He is known as a member who is full of ideas and solutions. Verge for him is a place where he works and learns with no prejudice. He is very helpful and always includes himself in all kinds of projects. With his vast expertise and skills he has risen as an avid member in a short amount of time.
 
-10. **Lakshay:**
+9. **Akshat Singh:**
 
-An enthusiastic flutter and block chain developer, Lakshay has done many projects on his journey related to multiple fields. He  joined Verge in 2020 to expand his sea of knowledge and experience while receiving hands-on experience in industrial work. He has worked on the BidCars application as a  Flutter and Firebase developer. Challenges are a part of everyone’s journey and Lakshay believes in dealing  with them with his team. For him, Verge has been a platform to showcase his talent and collaborate with new people with similar ideas. He is a quick learner and likes to work on different technologies. He never shies away from experimenting and encourages his teammates to do the same. 
+Joined Verge in 2022, being a beginner Akshat is a frontend developer. He joined Verge to learn and experience the industrial world. He joined as an intern in the bidcars project and currently became the junior frontend developer in Sai Sanjeevani project. He likes to take every task as a challenge, a challenge which improves him day by day as he never gives up on learning new things. His presence makes the environment cheerful as even in tough situations he makes his mind calm and relax , and face the situation with smile. For him Verge is a place where he find his right path for future. He is a responsible and supportive member of the team and due to his friendly and helpful nature his teammates has faith in him
 
+10. **Aditya Raj Handa:**
 
+Joining Verge in 2022, Aditya is a beginner full-stack developer. He joined Verge to learn and get real-time industry experience. He is currently working on the Sai Sanjeevani project as a back-end developer. To him, every error in the code is an opportunity to challenge himself. He makes it a goal for him to improve at least a little every day. He has previous experience working with several people, having organized tech fests in his school and managing an online-based media company that published unopinionated news items, opinion pieces, and research documents called The Woodward Journal. He served as the Founding and Technical Editor of the company for 2 years. Having experience working with NodeJS and Frontend technologies, he's excited to embark on a new journey and learn new things.
 
+11. **Soubhik Chakraborty:**
 
+Joined the club in 2022. With the determination to grow, he is ready to face all the hurdles in his way and learn and master new skills to help him pave his way to a successful career. Soubhik joined as an Intern, and now he is working as a Junior Front-end Developer. He has worked on the Verge's own website. He is very hard-working and always takes tasks as a stepping stone to learn new things. He always helps his teammates with all his knowledge and skills. With his calm nature, he easily handles tough situations. He also has great communication skills. This is why his colleagues love working with him.
 
+12. **Vibhu Khera:**
+
+He joined verge in 2022 as an intern at Bidcars project. Vibhu is a front-end web and application developer with flutter for app development and HTML, CSS, and JS for the web. He is on his way to learning many more things in the front end and will also be parallelly learning backend working with Node JS, Java Scrip, and React JS, integrating them with applications.
+
+13. **Tanish Sharma:**
+
+Hello everyone , I am Tanish joining verge in 2022 , I am a UI/UX designer ,but I also know about front end dev like HTML,CSS,JS and REACTJS
+
+14. **Tanishq Narang:**
+
+Tanishq is a passionate and energetic Android Developer. He joined Verge in 2022 with an aim to learn about new technologies that are being used. He joined as an intern in BidCars project.
